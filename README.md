@@ -1,5 +1,7 @@
 IT2-GSETSK (Interval Type-II Generic Self-Evolving Takagi–Sugeno–Kang) fuzzy neural network
 
+Download the source code of IT2-GSETSK from https://drive.google.com/file/d/1jXIe0br4xZBbivoSuQZfCsQHcT7VHBCE/view?usp=sharing
+
 Follow the steps listed below for using IT2-GSETSK 
 1-	Put your data file (.txt) in the Data Folder. The first row must indicate the number of input/s as well as number of output/s (please refer to the sample file in the Data Folder). Please note that interleaved test-train approach in IT2-GSETSK does not need to separate training and testing data.
 2-	Set up the f1.txt file in the Config Folder as listed below.
